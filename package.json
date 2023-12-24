@@ -1,0 +1,11 @@
+{
+  "name": "prueba-ecommers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server": "json-server --watch db.json" 
+  },
+  "author": "",
+  "license": "ISC"
+}

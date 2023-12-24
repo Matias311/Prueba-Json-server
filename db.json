@@ -1,0 +1,84 @@
+{
+  "productos" : [
+    {
+        "id": "1",
+        "nombre": "Iphone SE",
+        "description": "4.7-inch Retina HD display, A15 Bionic, the same superpowerful chip that's in Iphone 13",
+        "price": "429",
+        "img1": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphonese-digitalmat-gallery-1-202203?wid=364&hei=333&fmt=png-alpha&.v=1644987579596",
+        "img2": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphonese-digitalmat-gallery-2-202203?wid=364&hei=333&fmt=jpeg&qlt=95&.v=1646075827246",
+        "img3": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphonese-digitalmat-gallery-3-202203?wid=364&hei=333&fmt=png-alpha&.v=1644987579761",
+        "categoria-id": 1
+    },
+    {
+        "id": "2",
+        "nombre": "Iphone 13",
+        "description": "6.1-inch super retina XDR display, Dual-Camera system for incredible low-light, A15 Bionic for lighting-fast performance",
+        "price": "599",
+        "img1": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone13-digitalmat-gallery-1-202203_GEO_US?wid=364&hei=333&fmt=png-alpha&.v=1677662648569",
+        "img2": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone13-digitalmat-gallery-2-202203?wid=364&hei=333&fmt=png-alpha&.v=1644988764167",
+        "img3": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone13-digitalmat-gallery-3-202203?wid=364&hei=333&fmt=png-alpha&.v=1644988765122",
+        "categoria-id": 1
+    },
+    {
+        "id": "3",
+        "nombre": "Iphone 14",
+        "description": "6.1-inch super retina XDR display, Dual-Camera system for incredible low-light, A15 Bionic for lighting-fast performance",
+        "price": "699",
+        "img1": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone14-digitalmat-gallery-1-202303_GEO_US?wid=364&hei=333&fmt=png-alpha&.v=1679072735070",
+        "img2": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone14-digitalmat-gallery-2-202209?wid=364&hei=333&fmt=png-alpha&.v=1662055814304",
+        "img3": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone14-digitalmat-gallery-3-202209?wid=364&hei=333&fmt=png-alpha&.v=1662055813794",
+        "categoria-id": 1
+    },
+    {
+        "id": "4",
+        "nombre": "Iphone 15",
+        "description": "6.1-inch super retina XDR display, Dual-Camera system for incredible low-light, A16 Bionic for lighting-fast performance",
+        "price": "799",
+        "img1": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone15-digitalmat-gallery-1-202309_GEO_US?wid=364&hei=333&fmt=png-alpha&.v=1693346853617",
+        "img2": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone15-digitalmat-gallery-2-202309?wid=364&hei=333&fmt=png-alpha&.v=1693011169058",
+        "img3": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone15-digitalmat-gallery-3-202309?wid=364&hei=333&fmt=png-alpha&.v=1694112697687",
+        "categoria-id": 1
+    },
+    {
+        "id": "5",
+        "nombre": "MacBook Air 13",
+        "description": "13.3-inch retina display, Apple M1 Chip, Up to 18 hours of battery life",
+        "price": "999",
+        "img1": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mba-digitalmat-gallery-1-202111?wid=364&hei=333&fmt=png-alpha&.v=1636156517000",
+        "img2": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mba-digitalmat-gallery-2-202111?wid=364&hei=333&fmt=png-alpha&.v=1664581580690",
+        "img3": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mba-digitalmat-gallery-3-202111?wid=364&hei=333&fmt=png-alpha&.v=1635187293000",
+        "categoria-id": "2"
+    },
+    {
+        "id": "6",
+        "nombre": "MacBook Air 15",
+        "description": "15.3-inch retina display, Apple M2 Chip, Up to 18 hours of battery life",
+        "price": "1099",
+        "img1": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/macbook-air-digitalmat-gallery-1-202206?wid=364&hei=333&fmt=png-alpha&.v=1652827325377",
+        "img2": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/macbook-air-digitalmat-gallery-2-202206?wid=364&hei=333&fmt=png-alpha&.v=1652827325363",
+        "img3": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/macbook-air-digitalmat-gallery-3-202206?wid=364&hei=333&fmt=png-alpha&.v=1652827325419",
+        "categoria-id": "2"
+    },
+    {
+        "id": "7",
+        "nombre": "MacBook Pro 14",
+        "description": "14.2-inch Liquid Retina XDR display, Apple M3 Chip, Up to 22 hours of battery life",
+        "price": "1599",
+        "img1": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp-14-digitalmat-gallery-1-202310?wid=364&hei=333&fmt=png-alpha&.v=1696971522628",
+        "img2": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp-14-digitalmat-gallery-2-202310?wid=364&hei=333&fmt=png-alpha&.v=1697915602337",
+        "img3": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp-14-digitalmat-gallery-3-202310?wid=364&hei=333&fmt=png-alpha&.v=1696971522864",
+        "categoria-id": "2"
+    }
+  ],
+  "categoria": [
+    {
+        "id": "1",
+        "categoria": "Telefonos"
+    },
+    {
+        "id": "2",
+        "categoria": "Computador"
+    }
+  ]
+}
