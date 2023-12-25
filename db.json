@@ -8,7 +8,7 @@
         "img1": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphonese-digitalmat-gallery-1-202203?wid=364&hei=333&fmt=png-alpha&.v=1644987579596",
         "img2": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphonese-digitalmat-gallery-2-202203?wid=364&hei=333&fmt=jpeg&qlt=95&.v=1646075827246",
         "img3": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphonese-digitalmat-gallery-3-202203?wid=364&hei=333&fmt=png-alpha&.v=1644987579761",
-        "categoria-id": 1
+        "categoriaId": 1
     },
     {
         "id": "2",
@@ -18,7 +18,7 @@
         "img1": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone13-digitalmat-gallery-1-202203_GEO_US?wid=364&hei=333&fmt=png-alpha&.v=1677662648569",
         "img2": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone13-digitalmat-gallery-2-202203?wid=364&hei=333&fmt=png-alpha&.v=1644988764167",
         "img3": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone13-digitalmat-gallery-3-202203?wid=364&hei=333&fmt=png-alpha&.v=1644988765122",
-        "categoria-id": 1
+        "categoriaId": 1
     },
     {
         "id": "3",
@@ -28,7 +28,7 @@
         "img1": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone14-digitalmat-gallery-1-202303_GEO_US?wid=364&hei=333&fmt=png-alpha&.v=1679072735070",
         "img2": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone14-digitalmat-gallery-2-202209?wid=364&hei=333&fmt=png-alpha&.v=1662055814304",
         "img3": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone14-digitalmat-gallery-3-202209?wid=364&hei=333&fmt=png-alpha&.v=1662055813794",
-        "categoria-id": 1
+        "categoriaId": 1
     },
     {
         "id": "4",
@@ -38,7 +38,7 @@
         "img1": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone15-digitalmat-gallery-1-202309_GEO_US?wid=364&hei=333&fmt=png-alpha&.v=1693346853617",
         "img2": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone15-digitalmat-gallery-2-202309?wid=364&hei=333&fmt=png-alpha&.v=1693011169058",
         "img3": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone15-digitalmat-gallery-3-202309?wid=364&hei=333&fmt=png-alpha&.v=1694112697687",
-        "categoria-id": 1
+        "categoriaId": 1
     },
     {
         "id": "5",
@@ -48,7 +48,7 @@
         "img1": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mba-digitalmat-gallery-1-202111?wid=364&hei=333&fmt=png-alpha&.v=1636156517000",
         "img2": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mba-digitalmat-gallery-2-202111?wid=364&hei=333&fmt=png-alpha&.v=1664581580690",
         "img3": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mba-digitalmat-gallery-3-202111?wid=364&hei=333&fmt=png-alpha&.v=1635187293000",
-        "categoria-id": "2"
+        "categoriaId": "2"
     },
     {
         "id": "6",
@@ -58,7 +58,7 @@
         "img1": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/macbook-air-digitalmat-gallery-1-202206?wid=364&hei=333&fmt=png-alpha&.v=1652827325377",
         "img2": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/macbook-air-digitalmat-gallery-2-202206?wid=364&hei=333&fmt=png-alpha&.v=1652827325363",
         "img3": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/macbook-air-digitalmat-gallery-3-202206?wid=364&hei=333&fmt=png-alpha&.v=1652827325419",
-        "categoria-id": "2"
+        "categoriaId": "2"
     },
     {
         "id": "7",
@@ -68,7 +68,7 @@
         "img1": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp-14-digitalmat-gallery-1-202310?wid=364&hei=333&fmt=png-alpha&.v=1696971522628",
         "img2": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp-14-digitalmat-gallery-2-202310?wid=364&hei=333&fmt=png-alpha&.v=1697915602337",
         "img3": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp-14-digitalmat-gallery-3-202310?wid=364&hei=333&fmt=png-alpha&.v=1696971522864",
-        "categoria-id": "2"
+        "categoriaId": "2"
     }
   ],
   "categoria": [
